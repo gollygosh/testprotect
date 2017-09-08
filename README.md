@@ -1,2 +1,2 @@
 # testprotect
-A test to ensure we can password-protect a repository (very badly)
+A test to ensure we can password-protect a repository (very badly).
